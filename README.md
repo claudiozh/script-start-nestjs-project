@@ -12,5 +12,6 @@ plugins para padronização de commits(Commitlint, Commitzen, Husky), configura�
 
 * Crie a pasta do seu projeto e execute o seguinte comando:
 ```
-sh <(wget -qO- https://raw.githubusercontent.com/claudiozh/script-start-nestjs-project/start.sh)
+sh <(wget -qO- https://raw.githubusercontent.com/claudiozh/script-start-nestjs-project/main/start.sh)
 ```
+
