@@ -1,5 +1,9 @@
 #!/bin/sh
 
+init_git() {
+    git init    
+}
+
 install_yarn() {
     echo "Installing yarn..."
     sudo npm install -g yarn
@@ -167,6 +171,7 @@ add_permissions() {
     chown -Rf 1000:1000 .
 }
 
+init_git
 install_yarn
 install_nestjs
 create_new_project
