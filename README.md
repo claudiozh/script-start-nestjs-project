@@ -9,8 +9,12 @@ plugins para padronização de commits(Commitlint, Commitzen, Husky), configura�
 
 ## Como usar
 
-* Crie a pasta do seu projeto e execute o seguinte comando:
+* Usando com npm:
 ```
-sh <(wget -qO- https://raw.githubusercontent.com/claudiozh/script-start-nestjs-project/main/start.sh)
+sh <(wget -qO- https://raw.githubusercontent.com/claudiozh/script-start-nestjs-project/main/start-with-npm.sh)
 ```
 
+* Usando com yarn:
+```
+sh <(wget -qO- https://raw.githubusercontent.com/claudiozh/script-start-nestjs-project/main/start-with-yarn.sh)
+```
