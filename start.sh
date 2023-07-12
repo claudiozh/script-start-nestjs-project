@@ -27,7 +27,7 @@ configure_commitlint_commitzend_husky() {
   commitizen init cz-conventional-changelog --save-dev --save-exact --force
 
   echo "Add command of commit in package.json"
-  npm pkg set scripts.commit "git-cz"
+  npm pkg set scripts.commit = git-cz
 }
 
 create_dockerfile_dev() {
