@@ -10,5 +10,5 @@ plugins para padronização de commits(Commitlint, Commitzen, Husky), configura�
 ## Como usar
 
 ```
-sh <(wget -qO- https://raw.githubusercontent.com/claudiozh/script-start-nestjs-project/main/start-with-npm.sh)
+sh <(wget -qO- https://raw.githubusercontent.com/claudiozh/script-start-nestjs-project/main/start.sh)
 ```
