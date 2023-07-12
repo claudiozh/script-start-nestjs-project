@@ -1,6 +1,6 @@
 # Script novo projeto nestjs
 Projeto para montar um ambiente de 
-desenvolvimento usando Nestjs, Yarn, Typescript, Eslint, 
+desenvolvimento usando Nestjs, Typescript, Eslint, 
 plugins para padronização de commits(Commitlint, Commitzen, Husky), configurações para importação dos arquivos com caminho absoluto e ordenação das importações por ordem alfabética.
 
 ## Avisos
