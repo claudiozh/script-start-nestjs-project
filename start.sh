@@ -2,7 +2,7 @@
 
 install_nestjs_global() {
   echo "Installing nestjs global..."
-  sudo npm install -g add @nestjs/cli
+  npm install -g add @nestjs/cli
 }
 
 create_new_project() {
